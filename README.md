@@ -12,6 +12,7 @@ This is an example website for information technology class of B0K32A. It served
 ## Information about the structure this website:
 Here is the structure of this website:
 
+```
 Homepage 
 ├── Intruction page
 │    ├── Tutorial 1: Tools and IDE for programming
@@ -25,6 +26,7 @@ Homepage
      ├── Basic information about me
      ├── Information about this website
      ├── Thank you for visiting my website
+```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
